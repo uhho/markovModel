@@ -1,0 +1,24 @@
+{
+  "name": "markovModel",
+  "version": "1.0.0",
+  "description": "Simple implementation of a Markov Model",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^7.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "markov",
+    "model",
+    "chain"
+  ],
+  "author": "Lukasz Krawczyk <contact@lukaszkrawczyk.eu>",
+  "license": "MIT"
+}
